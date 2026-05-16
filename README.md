@@ -1,4 +1,4 @@
-# Potrfolio
+# Portfolio
 Saydirahmat's Portfolio
 
 Building from zero.
